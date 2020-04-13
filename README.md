@@ -10,6 +10,7 @@ P4D makes it very easy to use python as a scripting language for Delphi applicat
 Delphinus-Support
 
 TRADUÇÃO by Google Tradutor
+
 O Python para Delphi (P4D) é um conjunto de componentes livres que agrupam a dll Python no Delphi e no Lazarus (FPC). Eles permitem executar facilmente scripts Python, criar novos módulos e novos tipos de Python. Você pode criar extensões Python como DLLs e muito mais. O P4D fornece diferentes níveis de funcionalidade:
 
      Acesso de baixo nível à API python
